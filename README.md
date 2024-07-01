@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/Mauricio134/ProyectoCompGrafica/blob/main/video.mp4)
+[![Watch the video](https://img.youtube.com/vi/Ro34LibUZfk/0.jpg)](https://www.youtube.com/watch?v=Ro34LibUZfk)
